@@ -115,8 +115,8 @@ ul {
   padding-top: 50px;
   display: flex;
   justify-content: center;
-  align-items: flex-start; /* Align items to the top, so all the boxes start from the same point */
-  gap: 50px; /* Add more space between boxes */
+  align-items: flex-start;
+  gap: 50px;
   max-width: 2000px;
   padding-left: 550px;
   padding-right: 550px;
